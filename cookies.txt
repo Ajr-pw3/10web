@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+10web.io	TRUE	/	FALSE	1999999999	PHPSESSID	fe3e1e39842af51fc96fc3f66b6be1a3
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	lggDk9%2FjuBXOHMbfM00G0XMD%2B5qc3XdVkQLsPZCsK6BIj4nP97HsobnNoyo3LBQv1CA5IS636ylMNDNgNviWJkwJhnz3AZaqxUrTo3am47iEHY%2FJQ3b3hGLaaYu9oXBJRCkWnK1gbtZHm5sqyUWAdldZS2HW2g9ySN99csYXw2EGp27WBkZ0u5%2Bgoh5PCagYT52vtqMFirINaTYfdlH2gDcOZlETnpWh3aN36FdwoaasOwgchYmF8jh4ntVY5LIbuNY5LQ0w%2FQFIYRzJRQ6vSg%3D%3D--bm9HKN5a75IBjSfN--bByglU0MlF5REiU4u%2F%2Bh5w%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1808540077.1732801503
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
